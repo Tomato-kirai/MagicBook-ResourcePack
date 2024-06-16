@@ -5,12 +5,8 @@
   },
 	"display": {
 		"firstperson_righthand": {
-			"translation": [-5, 14, 5.5],
-			"scale": [1.5, 1.5, 1]
-		},
-		"firstperson_lefthand": {
-			"translation": [-6.75, 5.25, 6.5],
-			"scale": [1.5, 1.5, 1]
+			"translation": [1.13, 14, 1.13],
+			"scale": [1, 1, 1]
 		}
 	}
 }
