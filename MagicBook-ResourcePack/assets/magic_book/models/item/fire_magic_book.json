@@ -1,12 +1,6 @@
 {
-  "parent": "minecraft:item/generated",
+  "parent": "magic_book:item/magic_book",
   "textures": {
     "layer0": "magic_book:item/fire_magic_book"
-  },
-	"display": {
-		"firstperson_righthand": {
-			"translation": [1.13, 14, 1.13],
-			"scale": [1, 1, 1]
-		}
-	}
+  }
 }
